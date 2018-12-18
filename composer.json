@@ -1,0 +1,8 @@
+{
+	"name": "hajesh-local/madwell-vc-plugin",
+	"desciption": "Plugin to override the elements in Visual Composer",
+	"type": "wordpress-plugin",
+	"require": {
+		"php": ">=5.4"
+	}
+}
